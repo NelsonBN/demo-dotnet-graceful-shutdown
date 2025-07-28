@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="src/Demo.PosixSignals/1.PosixSignals.csproj" />
+  <Project Path="src/Demo.IHostedLifecycleService/2.Demo.IHostedLifecycleService.csproj" />
+  <Project Path="src/Demo.IHostApplicationLifetime/3.IHostApplicationLifetime.csproj" />
+  <Project Path="src/Demo.Worker/4.Demo.Worker.csproj" />
+  <Project Path="src/Demo.IHostLifetime/5.Demo.IHostLifetime.csproj" />
+  <Project Path="src/Demo.Api/6.Demo.Api.csproj" />
+</Solution>
