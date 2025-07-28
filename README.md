@@ -1,4 +1,4 @@
-# Demo - NET Graceful Shutdown
+# Demo - .NET Graceful Shutdown
 
 
 ## Signals
