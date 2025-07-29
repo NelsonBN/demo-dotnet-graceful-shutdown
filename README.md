@@ -1,5 +1,7 @@
 # Demo - .NET Graceful Shutdown
 
+[Post](https://nelsonbn.com/blog/dotnet-graceful-shutdown) explains how to gracefully shutdown a .NET applications
+
 
 ## Signals
 
